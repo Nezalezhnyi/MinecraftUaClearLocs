@@ -1,0 +1,14 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "The Ukrainian language localization with significantly fewer anglicisms (By Nezaležnyj)"
+   },
+   "language": {
+      "my_language": {
+         "name": "Українська (Очищена)",
+         "region": "Ukraine",
+         "bidirectional": false
+      }
+   }
+}
+

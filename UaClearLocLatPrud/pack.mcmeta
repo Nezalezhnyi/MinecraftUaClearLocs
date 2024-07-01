@@ -4,8 +4,8 @@
       "description": "The Ukrainian language localization with significantly fewer anglicisms (By Nezaležnyj)"
    },
    "language": {
-      "my_language": {
-         "name": "Ukrajins'ka (Očyščena)",
+      "my_language_4": {
+         "name": "Ukrajins'ka (Očyščena, Prudeusuvycja)",
          "region": "Ukrajina",
          "bidirectional": false
       }

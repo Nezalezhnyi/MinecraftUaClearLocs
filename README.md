@@ -4,7 +4,7 @@
 
 <h2><p><b>Українська</b></p></h2>
 <p><b>Змісцевлення працюють лише на відміні 1.21 - ПОКИ БЕЗ OptiFine!</b></p>
-<p>Українські локалізації (змісцевлення) для Minecraft-у, де значна кількість слів іншомовного походження була замінена питомо українськими відповідниками. У наявності оригінальна (першотворна) кирилична версія (відміна), а також похідні латинські (латинка Максиму Прудеуса та моя особиста)</p>
+<p>Українські локалізації (змісцевлення) для Minecraft-у, де значна кількість слів іншомовного походження була замінена питомо українськими відповідниками. У наявності оригінальна (першотворна) кирилична версія (відміна), а також похідні латинські (латинка Максима Прудеуса та моя особиста)</p>
 <p><b>ІНСТРУКЦІЯ (ДІЄВКАЗ)</b></p>
 <p><b>1.</b> Натисніть синю кнопку [<> Code] -> Download ZIP</p>
 <p><b>2.</b> Розпакуйте склад (простіше на робочий стіл). Ви маєте мати одну теку з назвою MinecraftUaCleared-main</p>
@@ -14,7 +14,7 @@
 <p></p>
 <h2><p><b>Ukrajins'ka</b></p></h2>
 <p><b>Zmiscevlennja pracjujut' lyše na vidmini 1.21 - POKY BEZ OptiFine!</b></p>
-Ukrajins'ki lokalizaciji (zmiscevlennja) dlja Minecraft-u, de značna kil'kist' sliv inšomovnogo pohodžennja bula zaminena pytomo ukrajins'kymy vidpovidnykamy. U najavnosti oryginal'na (peršotvorna) kyrylyčna versija (vidmina), a takož pohidni latyns'ki (latynka Maksymu Prudeusa ta moja osobysta)</p>
+Ukrajins'ki lokalizaciji (zmiscevlennja) dlja Minecraft-u, de značna kil'kist' sliv inšomovnogo pohodžennja bula zaminena pytomo ukrajins'kymy vidpovidnykamy. U najavnosti oryginal'na (peršotvorna) kyrylyčna versija (vidmina), a takož pohidni latyns'ki (latynka Maksyma Prudeusa ta moja osobysta)</p>
 <p><b>INSTRUKCIJA (DIJEVKAZ)</b></p>
 <p><b>1.</b> Natysnit' synju knopku [<> Code] -> Download ZIP</p>
 <p><b>2.</b> Rozpakujte sklad (prostiše na robočyj stil). Vy majete maty odnu teku z nazvoju MinecraftUaCleared-main</p>

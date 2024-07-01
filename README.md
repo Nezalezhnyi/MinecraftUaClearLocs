@@ -6,8 +6,8 @@
 <p><b>1.</b> Натисніть синю кнопку [<> Code] -> Download ZIP</p>
 <p><b>2.</b> Розпакуйте склад (простіше на робочий стіл). Ви маєте мати одну теку з назвою MinecraftUaCleared-main</p>
 <p><b>3.</b> Зайдіть до гри. Перейдіть до вкладки "пакети ресурсів (користя)". Натискаєте кнопку "Відкрити теку з пакетами"</p>
-<p><b>4.</b> Відкрийте теку MinecraftUaCleared-main. Усередині будуть теки UaClearLocCyr (кирилиця, першотворна), UaClearLocCyrMy (кирилиця, моя особиста) UaClearLocLatPrud (латиниця Прудеуса), UaClearLocLatMy (латиниця, моя особиста) та README. Ігноруєте (нехтуєте) README. Перекиньте до resourcepack ту теку, відміну змісцевлення якого хочете використати у грі (можете перекинути усі чотири теки одночасно)</p>
-<p><b>5.</b> Тицьніть "Готово". Зайдіть у вкладку "Мови". Ваші додані локалізації знаходяться між "Українська (Україна)" та "Македонски (Северна Македониjа)". Якщо Ви перекинули до теки усі 4 файли - усі чотири змісцевлення знаходитимуться поруч. Вітаю з позбавленням від непотрібних англіцизмів! Ґречно дякую за зацікавленість до моїх змісцевлень!</p>
+<p><b>4.</b> Відкрийте теку MinecraftUaCleared-main. Усередині будуть теки UaClearLocCyr (кирилиця, першотворна), UaClearLocCyrMy (кирилиця, моя особиста) UaClearLocLatPrud (латиниця Прудеуса), UaClearLocLatMy (латиниця, моя особиста) та README. Ігноруєте (нехтуєте) README. Перекиньте до resourcepack ту теку, відміну змісцевлення якої хочете використати у грі (можете перекинути усі чотири теки одночасно)</p>
+<p><b>5.</b> Тицьніть "Готово". Зайдіть у вкладку "Мови". Ваші додані змісцевлення знаходяться між "Українська (Україна)" та "Македонски (Северна Македониjа)". Якщо Ви перекинули до теки усі 4 файли - усі чотири змісцевлення знаходитимуться поруч. Вітаю з позбавленням від непотрібних англіцизмів! Ґречно Вам дякую за зацікавленість до моїх змісцевлень!</p>
 <p></p>
 <h2><p><b>Ukrajins'ka</b></p></h2>
 <p><b>Zmiscevlennja pracjujut' lyše na vidmini 1.21 - POKY BEZ OptiFine!</b></p>
@@ -15,9 +15,9 @@ Ukrajins'ki lokalizaciji (zmiscevlennja) dlja Minecraft-u, de značna kil'kist' 
 <p><b>INSTRUKCIJA (DIJEVKAZ)</b></p>
 <p><b>1.</b> Natysnit' synju knopku [<> Code] -> Download ZIP</p>
 <p><b>2.</b> Rozpakujte sklad (prostiše na robočyj stil). Vy majete maty odnu teku z nazvoju MinecraftUaCleared-main</p>
-<p><b>3.</b> Zahodyte do gry. Perehodyte do vkladky "pakety resursiv (korystja)". Natyskajete knopku "Vidkryty teku z paketamy"</p>
-<p><b>4.</b> Vidkryvajete teku MinecraftUaCleared-main. Useredyni budut' teky UaClearLocCyr (kyrylycja, peršotvorna), UaClearLocCyrMy (kyrylycja, moja osobysta) UaClearLocLatPrud (latynycja Prudeusa), UaClearLocLatMy (latynycja, moja osobysta) ta README. Ignorujete (nehtujete) README. Perekydujete do resourcepack tu teku, vidminu zmiscevlennja jakogo hočete vykorystaty u gri (možete perekynuty usi try teky odnočasno)</p>
-<p><b>5.</b> Tycjajete "Gotovo". Zahodyte u vkladku "Movy". Vaši dodani lokalizaciji znahodjat'sja miž "Українська (Україна)" ta "Македонски (Северна Македониjа)". Jakščo Vy perekynuly do teky usi 4 fajly - usi čotyry zmiscevlennja znahodytymut'sja poruč. Vitaju z pozbavlennjam vid nepotribnyh anglicyzmiv! Ĝrečno djakuju za zacikavlenist' do mojih zmiscevlen'!</p>
+<p><b>3.</b> Zajdit' do gry. Perejdit' do vkladky "pakety resursiv (korystja)". Natysnit' knopku "Vidkryty teku z paketamy"</p>
+<p><b>4.</b> Vidkryjte teku MinecraftUaCleared-main. Useredyni budut' teky UaClearLocCyr (kyrylycja, peršotvorna), UaClearLocCyrMy (kyrylycja, moja osobysta) UaClearLocLatPrud (latynycja Prudeusa), UaClearLocLatMy (latynycja, moja osobysta) ta README. Ignorujete (nehtujete) README. Perekyn'te do resourcepack tu teku, vidminu zmiscevlennja jakoji hočete vykorystaty u gri (možete perekynuty usi čotyry teky odnočasno)</p>
+<p><b>5.</b> Tyc'nit' "Gotovo". Zajdit' u vkladku "Movy". Vaši dodani zmiscevlennja znahodjat'sja miž "Українська (Україна)" ta "Македонски (Северна Македониjа)". Jakščo Vy perekynuly do teky usi 4 fajly - usi čotyry zmiscevlennja znahodytymut'sja poruč. Vitaju z pozbavlennjam vid nepotribnyh anglicyzmiv! Ĝrečno Vam djakuju za zacikavlenist' do mojih zmiscevlen'!</p>
 <p></p>
 <h2><p><b>English</b></p></h2>
 <p><b>Localizations work only on version 1.21 - CURRENTLY WITHOUT OptiFine!</b></p>
@@ -26,6 +26,6 @@ Ukrainian localizations for Minecraft, where a significant number of foreign-ori
 <p><b>1.</b> Click the blue button [<> Code] -> Download ZIP</p>
 <p><b>2.</b> Unzip the content (it's easier to do this on the desktop). You should have a folder named MinecraftUaCleared-main.</p>
 <p><b>3.</b> Go to the game. Navigate to the "resource packs" tab. Click the "Open resource pack folder" button.</p>
-<p><b>4.</b> Open the MinecraftUaCleared-main folder. Inside, you will find the folders UaClearLocCyr (Cyrillic, original), UaClearLocCyrMy (Cyrillic, my personal version), UaClearLocLatPrud (Latin script by Prudeus), UaClearLocLatMy (Latin script, my personal version), and README. Ignore the README. Move the folder of the localization version you want to use in the game to the resourcepack folder (you can move all three folders at once).</p>
+<p><b>4.</b> Open the MinecraftUaCleared-main folder. Inside, you will find the folders UaClearLocCyr (Cyrillic, original), UaClearLocCyrMy (Cyrillic, my personal version), UaClearLocLatPrud (Latin script by Prudeus), UaClearLocLatMy (Latin script, my personal version), and README. Ignore the README. Move the folder of the localization version you want to use in the game to the resourcepack folder (you can move all four folders at once).</p>
 <p><b>5.</b> Click "Done." Go to the "Languages" tab. Your added localizations will be located between "Українська (Україна)" and "Македонски (Северна Македониjа)." If you move all 4 files to the folder, all four localizations will be located next to each other. Congratulations on getting rid of unnecessary Anglicisms! Thank you so much for your interest in my localizations</p>
  

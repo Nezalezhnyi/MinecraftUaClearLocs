@@ -1,4 +1,7 @@
-# MinecraftUaCleared
+<h2>У створенні змісцевлень жваво використовувався проєкт <a href="https://slovotvir.org.ua/">Словотвір</a></h2>
+<h2>U stvorenni zmiscevlen' žvavo vykorystovuvavsja projekt <a href="https://slovotvir.org.ua/">Slovotvir</a></h2>
+<h2>The project <a href="https://slovotvir.org.ua/">Slovotvir</a> was actively used in the creation of the localizations</h2>
+
 <h2><p><b>Українська</b></p></h2>
 <p><b>Змісцевлення працюють лише на відміні 1.21 - ПОКИ БЕЗ OptiFine!</b></p>
 <p>Українські локалізації (змісцевлення) для Minecraft-у, де значна кількість слів іншомовного походження була замінена питомо українськими відповідниками. У наявності оригінальна (першотворна) кирилична версія (відміна), а також похідні латинські (латинка Максиму Прудеуса та моя особиста)</p>
